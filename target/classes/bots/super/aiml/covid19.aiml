@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: covid19.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: March 27, 2020 -->
+<!--  -->
+<!-- This AIML file is part of the SUPER 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The SUPER brain is Copyright &copy; 2020 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The SUPER brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<category><pattern>HI</pattern>
+<template>Welcome to Covid-19 questionnaire section...What can I do for you?</template>
+</category>
+<category><pattern>HELLO</pattern>
+<template>Welcome to Covid-19 questionnaire section...What can I do for you?</template>
+</category>
+<category><pattern>MAY I KNOW THE SYMPTOMS OF THIS VIRUS</pattern>
+<template>The most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some patients may have aches and pains,
+ nasal congestion, runny nose, sore throat or diarrhea. These symptoms are usually mild and begin gradually.</template>
+</category>
+<category><pattern>HOW TO SECURE ME FROM THIS VIRUS</pattern>
+<template>Wash your hands frequently
+Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water.</template>
+</category>
+<category><pattern>ANYTHING ELSE I HAVE TO KNOW</pattern>
+<template>Follow the guidance outlined above (Protection measures for everyone)</template>
+</category>
+<category><pattern>ANY MORE DETAILS</pattern>
+<template>Self-isolate by staying at home if you begin to feel unwell, even with mild symptoms such as headache, low grade fever (37.3 C or above) and slight runny nose, until you recover. If it is essential for you to have someone bring you supplies or to go out, e.g. to buy food, then wear a mask to avoid infecting other people.</template>
+</category>
+<category><pattern>WHAT IS COVID-19</pattern>
+<template>COVID-19 is the infectious disease caused by the most recently discovered coronavirus.</template>
+</category>
+<category><pattern>THEN</pattern>
+<template>If you develop fever, cough and difficulty breathing, seek medical advice promptly as this may be due to a respiratory infection or other serious condition. Call in advance and tell your provider of any recent travel or contact with travelers.</template>
+</category>
+<category><pattern>WHY</pattern>
+<template>Calling in advance will allow your health care provider to quickly direct you to the right health facility. This will also help to prevent possible spread of COVID-19 and other viruses.</template>
+</category>
+<category><pattern>IF I HAVE MORE QUERIES WHAT I HAVE TO DO?</pattern>
+<template>For more information, check back regularly on WHOs coronavirus pages. https://www.who.int/emergencies/diseases/novel-coronavirus-2019</template>
+</category>
+</aiml>

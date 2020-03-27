@@ -1,0 +1,10 @@
+0,HI,*,*,Welcome to Covid-19 questionnaire section...What can I do for you?,covid19.aiml
+0,HELLO,*,*,Welcome to Covid-19 questionnaire section...What can I do for you?,covid19.aiml
+0,MAY I KNOW THE SYMPTOMS OF THIS VIRUS,*,*,The most common symptoms of COVID-19 are fever#Comma tiredness#Comma and dry cough. Some patients may have aches and pains#Comma#Newline nasal congestion#Comma runny nose#Comma sore throat or diarrhea. These symptoms are usually mild and begin gradually.,covid19.aiml
+0,HOW TO SECURE ME FROM THIS VIRUS,*,*,Wash your hands frequently#NewlineRegularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water.,covid19.aiml
+0,ANYTHING ELSE I HAVE TO KNOW,*,*,Follow the guidance outlined above (Protection measures for everyone),covid19.aiml
+0,ANY MORE DETAILS,*,*,Self-isolate by staying at home if you begin to feel unwell#Comma even with mild symptoms such as headache#Comma low grade fever (37.3 C or above) and slight runny nose#Comma until you recover. If it is essential for you to have someone bring you supplies or to go out#Comma e.g. to buy food#Comma then wear a mask to avoid infecting other people.,covid19.aiml
+0,WHAT IS COVID-19,*,*,COVID-19 is the infectious disease caused by the most recently discovered coronavirus.,covid19.aiml
+0,THEN,*,*,If you develop fever#Comma cough and difficulty breathing#Comma seek medical advice promptly as this may be due to a respiratory infection or other serious condition. Call in advance and tell your provider of any recent travel or contact with travelers.,covid19.aiml
+0,WHY,*,*,Calling in advance will allow your health care provider to quickly direct you to the right health facility. This will also help to prevent possible spread of COVID-19 and other viruses.,covid19.aiml
+0,IF I HAVE MORE QUERIES WHAT I HAVE TO DO?,*,*,For more information#Comma check back regularly on WHOs coronavirus pages. https://www.who.int/emergencies/diseases/novel-coronavirus-2019,covid19.aiml
